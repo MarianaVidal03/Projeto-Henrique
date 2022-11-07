@@ -1,0 +1,5 @@
+Para utilizar o back end criado para exemplo 
+com o json, é necessário entrar na pasta do projeto,
+depois entrar na pasta backend e quando estiver 
+dentro dela digitar no terminal o comando:
+npx json-server --watch db.json

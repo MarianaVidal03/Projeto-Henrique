@@ -1,0 +1,102 @@
+{
+  "clothes": [
+    {
+      "id": 6,
+      "price": "300",
+      "name": "short",
+      "description": "jeans",
+      "image": "",
+      "color": "azul",
+      "model": "largo",
+      "size": "36"
+    },
+    {
+      "id": 8,
+      "price": "50",
+      "name": "vestido",
+      "description": "longo",
+      "image": "",
+      "color": "azul",
+      "model": "de bolas",
+      "size": "m"
+    },
+    {
+      "id": 9,
+      "price": "60",
+      "name": "calça",
+      "description": "jeans",
+      "image": "",
+      "color": "azul",
+      "model": "flaire",
+      "size": "36"
+    }
+  ],
+  "kitchen": [
+    {
+      "id": 2,
+      "price": 15.5,
+      "name": "garfo",
+      "description": "garfo aluminio",
+      "image": "",
+      "model": "largo e fino",
+      "dimension": 2.5,
+      "volume": 28,
+      "amount": 3
+    },
+    {
+      "id": 3,
+      "price": "17.50",
+      "name": "faca",
+      "description": "ponta fina",
+      "image": "",
+      "model": "tracta",
+      "dimension": "2.3",
+      "volume": "7.8",
+      "amount": "4"
+    },
+    {
+      "id": 4,
+      "price": "18",
+      "name": "faca",
+      "description": "lisa",
+      "image": "",
+      "model": "pequeno",
+      "dimension": "15",
+      "volume": "30",
+      "amount": "10"
+    }
+  ],
+  "house": [
+    {
+      "id": 3,
+      "price": 50.5,
+      "name": "vaso",
+      "description": "vaso de planta",
+      "image": "",
+      "model": "oval azul",
+      "dimension": 4.6,
+      "size": "4."
+    },
+    {
+      "id": 4,
+      "price": "20000",
+      "name": "cama",
+      "description": "box ",
+      "image": "",
+      "model": "solteiro",
+      "dimension": "160x60"
+    }
+  ],
+  "book": [
+    {
+      "id": 1,
+      "price": "67.80",
+      "name": "A dama das Camélias",
+      "description": "romance",
+      "image": "",
+      "ISBN": "156333",
+      "typeCover": "dura",
+      "dimension": "20*20"
+    }
+  ]
+}
